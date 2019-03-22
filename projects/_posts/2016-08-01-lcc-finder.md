@@ -5,8 +5,6 @@ description: >
   실시간 저가항공 검색 서비스
 ---
 
-![](/assets/img/blog/lccfinder-1.jpg)
-
 ![](/assets/img/blog/lccfinder-2.jpg)
 
 ![](/assets/img/blog/lccfinder-3.jpg)

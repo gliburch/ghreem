@@ -1,8 +1,8 @@
 ---
-title: 해먹남녀
+title: 해먹남녀 스토어
 image: /assets/img/blog/haemuk-1.jpg
 description: >
-  해먹남녀
+  [http://store.haemukja.com](http://store.haemukja.com)
 ---
 
 ![](/assets/img/blog/haemuk-2.jpg)

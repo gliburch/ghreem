@@ -1,8 +1,8 @@
 ---
-title: hightech
+title: 하이테크 감정평가법인
 image: /assets/img/blog/hightech-1.jpg
 description: >
-  하이테
+  [http://hightechapp.co.kr](http://hightechapp.co.kr)
 ---
 
 ![](/assets/img/blog/hightech-2.jpg)

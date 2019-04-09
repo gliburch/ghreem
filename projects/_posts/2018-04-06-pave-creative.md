@@ -1,8 +1,8 @@
 ---
-title: pave-creative
+title: Pave Creative
 image: /assets/img/blog/pave-4.jpg
 description: >
-  pave-creative
+  [http://pave-creative.com](http://pave-creative.com)
 ---
 
 ![](/assets/img/blog/pave-5.jpg)

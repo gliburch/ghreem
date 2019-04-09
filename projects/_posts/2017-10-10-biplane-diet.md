@@ -1,8 +1,8 @@
 ---
-title: 바이플랜 다이어트
+title: 바이플랜다이어트 BIPLANE Diet
 image: /assets/img/blog/diet-1.jpg
 description: >
-  바이플랜 다이어
+  [http://bi-plane.co.kr/diet](http://bi-plane.co.kr/diet)
 ---
 
 ![](/assets/img/blog/diet-2.jpg)

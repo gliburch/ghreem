@@ -1,9 +1,8 @@
 ---
-layout: list
 title: Projects
-slug: projects
+layout: list
 menu: true
 order: 1
-description: >
-  
+description: ''
 ---
+

@@ -1,8 +1,10 @@
 ---
 title: 해먹남녀 스토어
-image: /assets/img/blog/haemuk-1.jpg
-description: >
-  [http://store.haemukja.com](http://store.haemukja.com)
+date: 2017-06-01 00:00:00 Z
+categories:
+- projects
+image: "/assets/img/blog/haemuk-1.jpg"
+description: "[http://store.haemukja.com](http://store.haemukja.com)\n"
 ---
 
 ![](/assets/img/blog/haemuk-2.jpg)
